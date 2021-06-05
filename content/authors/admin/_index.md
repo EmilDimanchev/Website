@@ -14,10 +14,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 
 # Interests to show in About widget
-interests:
-- energy systems
-- policy design
-- techno-economic modeling
+Specialties:
+- Energy systems
+- Policy design
+- Techno-economic modeling
 
 
 # Education to show in About widget
