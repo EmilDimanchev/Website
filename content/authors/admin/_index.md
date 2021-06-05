@@ -15,6 +15,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- energy systems
+- policy design
+- techno-economic modeling
 
 
 # Education to show in About widget
@@ -61,8 +64,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Hi there, I am Emil Dimanchev and I am a climate policy researcher specializing in energy systems, policy design, and techno-economic modeling.
 
 I am currently a PhD Candidate in electric power engineering at the Norwegian University of Science and Technology (Energy System Planning group), a Research Affiliate at the MIT Center for Energy and Environmental Policy Research, and a Superforecaster at Good Judgment.
 
