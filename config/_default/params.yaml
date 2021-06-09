@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: forest
+theme: ocean
 day_night: false
-font: 'Parisienne'
+font: 'Minimal'
 font_size: L
 
 # SEO
