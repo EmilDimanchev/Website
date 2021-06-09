@@ -6,10 +6,10 @@ title: Emil Dimanchev
 superuser: true
 
 # Role/position/tagline
-role: Climate and Energy Policy Research
+role:
 
 # Organizations/Affiliations to show in About widget
-organizations:
+organizations: 
 
 # Short bio (displayed in user profile at end of posts)
 
